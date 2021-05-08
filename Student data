@@ -12,7 +12,7 @@ def display_menu():
           B: View Student List
           C: Search by ID number
           D: delete Student
-          E: Quit/Log Out
+          E: Quit/Exit
 
           Press Any key! """)
 
