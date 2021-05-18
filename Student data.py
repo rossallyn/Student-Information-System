@@ -11,7 +11,7 @@ def display_menu():
           A: Add Student Name
           B: View Student List
           C: Search by ID number
-          D: delete Student
+          D: Delete Student
           E: Quit/Log Out
 
           Press Any key! """)
